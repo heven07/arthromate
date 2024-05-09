@@ -1,0 +1,24 @@
+# Terms and Conditions
+
+## Acceptance of Terms
+
+By downloading and using Arthromate ("the App"), you agree to the following Terms and Conditions ("Terms"). If you do not agree with these Terms, please do not download or use the App.
+
+## Data Collection and Use
+
+Arthromate collects and stores personal health data related to your arthritis condition. This data may include, but is not limited to, symptoms, medication usage, and lifestyle factors. 
+
+We store your data on Amazon Web Services (AWS), a secure cloud storage provider. We will handle your data in accordance with the General Data Protection Regulation (GDPR).
+
+## Data Protection
+
+We are committed to ensuring the security of your data. We have implemented appropriate technical and organizational measures to protect your data against unauthorized access, alteration, disclosure, or destruction.
+
+## Changes to These Terms
+
+We reserve the right to modify these Terms at any time without prior notice. Your continued use of the App after any such changes constitutes your acceptance of the new Terms.
+
+## Contact Us
+
+If you have any questions about these Terms, please contact us at heven@nevergonnagiveyouupnevergonnaletyoudown.com.
+

@@ -1,0 +1,30 @@
+languageCode:           "en"
+title:                  "Arthromate"
+# baseURL:                "http://localhost:1313"
+baseURL:                "https://flowbite-admin-dashboard.vercel.app/"
+enableInlineShortcodes: true
+canonifyURLs: true
+
+params:
+  homepage: "index.html"
+  authors: heven07
+
+markup:
+  goldmark:
+    renderer:
+      unsafe:           true
+  highlight:
+    noClasses:          false
+    style:              colorful
+  tableOfContents:
+    startLevel:         2
+    endLevel:           6
+
+buildDrafts:            true
+buildFuture:            true
+
+enableRobotsTXT:        true
+metaDataFormat:         "yaml"
+disableKinds:           ["404", "taxonomy", "taxonomyTerm", "RSS"]
+
+publishDir:             "_gh_pages"
